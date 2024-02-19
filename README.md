@@ -33,6 +33,7 @@ User can login using username/email and password
 **Employee Collection**
 
 | Field Name | Type | Contraint |
+| ---------- | ---- | --------- |
 | _id | Object ID| Auto Generated (not needed to be added into the modedls) |
 | first_name | String | Required |
 | last_name | String | Required |
